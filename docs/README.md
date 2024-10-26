@@ -34,6 +34,7 @@ in the future if they are highly valuable on their own.
 
 Compiling in a specific operating system/platforms:
 
+* mobile hackeing
 * `LAF_WINDOWS`
 * `LAF_MACOS`
 * `LAF_LINUX`
